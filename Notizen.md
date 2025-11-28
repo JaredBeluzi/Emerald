@@ -1,6 +1,6 @@
 # 1. Informationen
 
-| | |
+|Thema |Information |
 |---|---|
 |Debian Daten		    | Name = aaa	PW = bbb |
 |Youtube Tutorials	    | https://www.youtube.com/watch?v=q0H_22K9f9Q&list=PLLNv9Lq6kDmTIYfN5NvgQRvfOHTOXl0uU&index=2 |
