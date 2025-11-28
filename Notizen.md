@@ -26,6 +26,8 @@ make -j[nproc number]                   # ROM bauen
 - [ ] ROM mit kleiner Änderung bauen
 - [ ] ROM bauen aus Infos in lokalem Clone
 
+- [ ] Gib allen Pokemon nur eine Fähigkeit. Kombiniere zwei zu einer, wo es passt (Shedinja z.B. bleibt mir Wonder Guard, aber Bulbasaur kann zwei Skills haben)
+
 ### In Bearbeitung 
 (oben = dringend)
 
