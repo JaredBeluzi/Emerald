@@ -11,13 +11,9 @@
 
 ```
 # Debian öffnen
-
 sudo apt update && sudo apt upgrade     # Alles einmal updaten		
-
 cd /mnt/c/Users/Jo/Desktop/Emerald      # Emerald Ordner einhängen 	
-
 nproc                                   # nproc Wert auslesen für nächsten Schritt
-
 make -j[nproc number]                   # ROM bauen   		        
 ```
 
@@ -33,13 +29,13 @@ make -j[nproc number]                   # ROM bauen
 ### In Bearbeitung 
 (oben = dringend)
 
-- [ ] Notizen.md benutzbar machen (hübsch + funktionell)
-- [ ] Commit in repo pushen und testen, ob es funktioniert hat.
 - [ ] Github Turorial beenden (weiter bei "Using an existing project")
 
 ### Abgeschlossen 
 (oben = neu, unten = alt)
 
+- [x] 28.11.2025 Notizen.md benutzbar machen (hübsch + funktionell)
+- [x] 28.11.2025 Commit in repo pushen und testen, ob es funktioniert hat.
 - [x] 28.11.2025 Notizen Datei lokal committen
 - [x] 28.11.2025 Notizen Datei adden
 - [x] 28.11.2025 pokeemerald-expansion forken
