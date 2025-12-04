@@ -31,6 +31,7 @@ make -j[nproc number]                   # ROM bauen
 ### In Bearbeitung 
 (oben = dringend)
 
+- [ ] Issue Template entwickeln und vorhandenes in .github > ISSUE TEMPLATE überschreiben
 - [ ] Github Turorial beenden (weiter bei "Using an existing project")
 
 ### Abgeschlossen 
