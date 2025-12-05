@@ -1,6 +1,6 @@
 ---
 name: Fehler
-about: Es gibt Verhalten, das so nicht stattfinden soll.
+about: Etwas funktioniert nicht wie beabsichtigt.
 title: Nightshade crits
 labels: Fehler
 assignees: JaredBeluzi
