@@ -2,7 +2,7 @@
 
 |Thema |Information |
 |---|---|
-|Debian Daten		    | Name = aaa	PW = bbb |
+|Ubuntu öffnen Daten		    | Name = aaa	PW = bbb |
 |Youtube Tutorials	    | https://www.youtube.com/watch?v=q0H_22K9f9Q&list=PLLNv9Lq6kDmTIYfN5NvgQRvfOHTOXl0uU&index=2 |
 |Pokeemerald Extension	| https://rh-hideout.github.io/pokeemerald-expansion/index.html |
 |Github Tutorial        | https://github.com/TeamAquasHideout/Team-Aquas-Asset-Repo/wiki/The-Basics-of-GitHub |
