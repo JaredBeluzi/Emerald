@@ -1,6 +1,6 @@
 ---
 name: neues Feature
-about: Neue Funktionalität, die es so bisher noch nicht gibt.
+about: Neues Feature, das in der Form aktuell nicht existiert.
 title: ''
 labels: Feature
 assignees: JaredBeluzi
