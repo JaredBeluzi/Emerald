@@ -1,7 +1,7 @@
 ---
 name: Fehler
 about: Es gibt Verhalten, das so nicht stattfinden soll.
-title: 'Nightshade crits'
+title: Nightshade crits
 labels: Fehler
 assignees: JaredBeluzi
 
